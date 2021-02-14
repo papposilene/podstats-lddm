@@ -1,0 +1,2138 @@
+[
+  {
+    "ma_company": "Tomy",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Blip",
+    "co_released_on": "1977"
+  },
+  {
+    "ma_company": "Coleco",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Coleco Handheld Games",
+    "co_released_on": ""
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "VTech Handheld games",
+    "co_released_on": "1979"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Game & Watch series",
+    "co_released_on": "1980"
+  },
+  {
+    "ma_company": "Grandstand",
+    "ma_country": "GBR",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Astro Wars",
+    "co_released_on": "1981"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "LCD Solarpower",
+    "co_released_on": "1982"
+  },
+  {
+    "ma_company": "Epoch",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Barcode Battler",
+    "co_released_on": "1991"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Nintendo Mini Classics",
+    "co_released_on": "1998"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Pokémon Pikachu",
+    "co_released_on": "1998"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Pokémon Pikachu 2",
+    "co_released_on": "1999"
+  },
+  {
+    "ma_company": "Toymax International",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Activision TV Games",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "Jakks Pacific",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari 10 in 1 TV Games",
+    "co_released_on": "2002"
+  },
+  {
+    "ma_company": "Jakks Pacific",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Ms. Pac-Man TV Games",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "Jakks Pacific",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Pac-Man TV Games",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "Jakks Pacific",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Paddle",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "Jakks Pacific",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Activision 10 in 1 TV Games",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 2",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 3",
+    "co_released_on": "2011"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 4",
+    "co_released_on": "2012"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 64",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 5",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "ColecoVision Flashback",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Intellivision Flashback",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Retro Computers",
+    "ma_country": "GBR",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "ZX Spectrum Vega",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 6",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 7",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Nintendo Entertainment System: NES Classic Edition",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Famicom Mini",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 8",
+    "co_released_on": "2017"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Super Nintendo Entertainment System: Super NES Classic Edition",
+    "co_released_on": "2017"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Super Famicom Mini",
+    "co_released_on": "2017"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback 9",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Retro Computers",
+    "ma_country": "GBR",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "THEC64Mini",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "SNK Corporation",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "NEOGEO mini",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "PlayStation Classic",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Team-Neo",
+    "ma_country": "KOR",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Zemmix Mini",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "AtGames",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Atari Flashback X",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Sega Genesis Mini",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Capcom",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Capcom Home Arcade",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "SNK Corporation",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "NEOGEO Arcade Stick Pro",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Retro Computers",
+    "ma_country": "GBR",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "THEC64",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Konami",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "TurboGrafx-16 Mini",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "HAL Laboratory",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "PasocomMini PC-8001",
+    "co_released_on": ""
+  },
+  {
+    "ma_company": "Unit-e Technologies",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "PC Classic",
+    "co_released_on": ""
+  },
+  {
+    "ma_company": "Mattel",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Mattel Handheld Games re-release series",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Game & Watch Ball Club Nintendo re-release",
+    "co_released_on": "2009"
+  },
+  {
+    "ma_company": "Retro-Bit",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "Go Retro! Portable",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Basic Fun",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "The Oregon Trail Handheld",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Retro Computers",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "",
+    "co_name": "ZX Spectrum Vega+",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Le Sheng Century",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "1UP",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "CUIGI Cool",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "AK (Series)",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Apple",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Apple TV 4th Gen (HD)",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Apple",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Apple TV 5th Gen (4K)",
+    "co_released_on": "2017"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Atari VCS",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "Vizio",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Co-Star",
+    "co_released_on": "2012"
+  },
+  {
+    "ma_company": "Maxpo",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Eagle Box",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Fisher-Price",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Easy Link Internet Launch Pad",
+    "co_released_on": "2008"
+  },
+  {
+    "ma_company": "Amazon",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Fire TV",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Amazon",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Fire TV Cube",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Amazon",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Fire TV Stick",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Flare Entertainment",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Flare Play 2.0",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Flare Entertainment",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "flarePlay",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "ZTE",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "FunBox",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "酷优乐",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "FX (Series)",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "SUBOR",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "G (Series)",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Geeya",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "G-BOX",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "G-cluster Global",
+    "ma_country": "FIN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "G-cluster",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "BlueStacks",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "GamePop",
+    "co_released_on": ""
+  },
+  {
+    "ma_company": "PlayJam",
+    "ma_country": "GBR",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "GameStick",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "EMTEC",
+    "ma_country": "FRA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "GEM Box",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "BigbirdVC",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "GI & GII",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Intellivision Entertainment",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Intellivision Amico",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "iQue",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "iQue Player",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "Konami",
+    "ma_country": "JPN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Konami Live! Online Game Controller",
+    "co_released_on": "2006"
+  },
+  {
+    "ma_company": "Lexibook",
+    "ma_country": "FRA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "LexiBox TV",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "GPD",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Mars Gamebox I",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "GPD",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Mars Gamebox II",
+    "co_released_on": ""
+  },
+  {
+    "ma_company": "Tencent",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "miniStation",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Mad Catz",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "MOJO",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "Tiger Electronics",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Net Jet",
+    "co_released_on": "2007"
+  },
+  {
+    "ma_company": "Asus",
+    "ma_country": "TWN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Nexus Player",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Nutaku",
+    "ma_country": "CAN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Nutaku: The Console",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Snail Games",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "OBox",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "OnLive",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "OnLive",
+    "co_released_on": "2010"
+  },
+  {
+    "ma_company": "Ouya",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Ouya",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "L.C. Smart",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Pandora TV Box",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "Lexibook",
+    "ma_country": "FRA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Playdroid TV",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "PlayStation TV",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "Polymega",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Polymega",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "Razer",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Razer Forge TV",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Baidu",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Shadow Stick 3",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Nvidia",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "SHIELD Android TV",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Skyworth",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Skyworth miniStation",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "Google",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Stadia",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Valve Corporation",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Steam Link",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Valve Corporation",
+    "ma_country": "USA",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Steam Machine",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "TCL",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "T2",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "TimeTop",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "TE (Series)",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "TIMEBOX",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "TIMEBOX",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Fuze Entertainment",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Tomahawk F1",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "Xiaocong",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Warchief",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "MeLE",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "X8",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "DiyoMate Technology",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "X18",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Unicorn Information Systems",
+    "ma_country": "KOR",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "Xtreamer Multi-Console",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "ZIVOO",
+    "ma_country": "CHN",
+    "co_type": "micro",
+    "co_generation": "",
+    "co_name": "智盒",
+    "co_released_on": "2014"
+  },
+  {
+    "ma_company": "Milton Bradley",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Microvision",
+    "co_released_on": "1979"
+  },
+  {
+    "ma_company": "Mattel",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Children's Discovery System",
+    "co_released_on": "1981"
+  },
+  {
+    "ma_company": "Entex Industries",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Select-A-Game",
+    "co_released_on": "1981"
+  },
+  {
+    "ma_company": "Entex Industries",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Adventure Vision",
+    "co_released_on": "1982"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "3D Gamate",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Variety",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Palmtex",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Portable Videogame System",
+    "co_released_on": "1984"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Digi Casse",
+    "co_released_on": "1984"
+  },
+  {
+    "ma_company": "Romtec",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Colorvision",
+    "co_released_on": "1984"
+  },
+  {
+    "ma_company": "Epoch",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "Game Pocket Computer",
+    "co_released_on": "1984"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "handheld",
+    "co_generation": "2",
+    "co_name": "ProScreen",
+    "co_released_on": "1984"
+  },
+  {
+    "ma_company": "Ohio Art Company",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "3",
+    "co_name": "Etch A Sketch Animator 2000",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "Electronika",
+    "ma_country": "RUS",
+    "co_type": "handheld",
+    "co_generation": "3",
+    "co_name": "IM-26",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "Grandstand",
+    "ma_country": "GBR",
+    "co_type": "handheld",
+    "co_generation": "3",
+    "co_name": "Light Games",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "handheld",
+    "co_generation": "3",
+    "co_name": "PreComputer 1000",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Game Boy",
+    "co_released_on": "1989"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Lynx",
+    "co_released_on": "1989"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Game Gear",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "NEC",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "TurboExpress",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "Bit Corporation",
+    "ma_country": "TWN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Gamate",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "Hartung",
+    "ma_country": "DEU",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Game Master",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "NEC",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "PC Engine LT",
+    "co_released_on": "1991"
+  },
+  {
+    "ma_company": "Watara",
+    "ma_country": "TWN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Supervision",
+    "co_released_on": "1992"
+  },
+  {
+    "ma_company": "MGA Entertainment",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Game Wizard",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "Virtual Boy",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "4",
+    "co_name": "Nomad",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "Design Master Senshi",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Tiger Electronics",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "R-Zone",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Koei",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "PasoGo",
+    "co_released_on": "1996"
+  },
+  {
+    "ma_company": "Tiger Electronics",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "Game.com",
+    "co_released_on": "1997"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "VMU",
+    "co_released_on": "1998"
+  },
+  {
+    "ma_company": "SNK",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "Neo Geo Pocket",
+    "co_released_on": "1998"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "PocketStation",
+    "co_released_on": "1999"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "WonderSwan",
+    "co_released_on": "1999"
+  },
+  {
+    "ma_company": "Cybiko",
+    "ma_country": "RUS",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Cybiko",
+    "co_released_on": "2000"
+  },
+  {
+    "ma_company": "LeapFrog Enterprises",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "5",
+    "co_name": "Turbo Twist",
+    "co_released_on": "2000"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Game Boy Advance",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "Game Park",
+    "ma_country": "KOR",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "GP32",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Pokémon Mini",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "LeapFrog Enterprises",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "iQuest",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "Fisher Price",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Kasey the Kinderbot",
+    "co_released_on": "2002"
+  },
+  {
+    "ma_company": "Mattel",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Pixter",
+    "co_released_on": "2002"
+  },
+  {
+    "ma_company": "Nokia",
+    "ma_country": "FIN",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "N-Gage",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "LeapFrog Enterprises",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Leapster",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "Tapwave",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "Zodiac",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "TimeTop",
+    "ma_country": "CHN",
+    "co_type": "handheld",
+    "co_generation": "6",
+    "co_name": "GameKing",
+    "co_released_on": "2003"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "Nintendo DS",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "PlayStation Portable",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "Tiger Telematics",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "Gizmondo",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "GamePark",
+    "ma_country": "KOR",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "GP2X",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "Nikko",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "digiBlast",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "V.Smile Pocket",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "Tiger Electronics",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "VideoNow XP",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "Giochi Preziosi",
+    "ma_country": "ITA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "My Life",
+    "co_released_on": "2007"
+  },
+  {
+    "ma_company": "LeapFrog Enterprises",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "Didj",
+    "co_released_on": "2008"
+  },
+  {
+    "ma_company": "Dingoo Digital Technology Company",
+    "ma_country": "CHN",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "Dingoo A320",
+    "co_released_on": "2009"
+  },
+  {
+    "ma_company": "GamePark",
+    "ma_country": "KOR",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "GP2X Wiz",
+    "co_released_on": "2009"
+  },
+  {
+    "ma_company": "OpenPandora",
+    "ma_country": "DEU",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "Pandora",
+    "co_released_on": "2010"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "MobiGo",
+    "co_released_on": "2010"
+  },
+  {
+    "ma_company": "LeapFrog Enterprises",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "Leapster Explorer",
+    "co_released_on": "2010"
+  },
+  {
+    "ma_company": "GamePark",
+    "ma_country": "KOR",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "CAANOO",
+    "co_released_on": "2010"
+  },
+  {
+    "ma_company": "Mattel",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "iXL",
+    "co_released_on": "2010"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "Nintendo 3DS",
+    "co_released_on": "2011"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "InnoTab",
+    "co_released_on": "2011"
+  },
+  {
+    "ma_company": "K's Kids",
+    "ma_country": "HKG",
+    "co_type": "handheld",
+    "co_generation": "7",
+    "co_name": "K-Magic",
+    "co_released_on": "2011"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "PlayStation Vita",
+    "co_released_on": "2011"
+  },
+  {
+    "ma_company": "LG Corporation",
+    "ma_country": "KOR",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "Kids Pad",
+    "co_released_on": "2012"
+  },
+  {
+    "ma_company": "Tommo",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "Neo Geo X",
+    "co_released_on": "2012"
+  },
+  {
+    "ma_company": "Game Consoles Worldwide",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "GCW Zero",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "Nvidia",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "Shield Portable",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "GamePad Digital",
+    "ma_country": "CHN",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "GPD XD",
+    "co_released_on": "2015"
+  },
+  {
+    "ma_company": "Kevin Bates",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "Arduboy",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "GamePad Digital",
+    "ma_country": "CHN",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "GPD Win",
+    "co_released_on": "2016"
+  },
+  {
+    "ma_company": "GamePad Digital",
+    "ma_country": "CHN",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "GPD Win 2",
+    "co_released_on": "2018"
+  },
+  {
+    "ma_company": "Oculus",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "8",
+    "co_name": "Oculus Quest",
+    "co_released_on": "2019"
+  },
+  {
+    "ma_company": "Panic",
+    "ma_country": "USA",
+    "co_type": "handheld",
+    "co_generation": "9",
+    "co_name": "Playdate",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "Fairchild Semiconductor",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Fairchild Channel F",
+    "co_released_on": "1976"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Atari 2600",
+    "co_released_on": "1977"
+  },
+  {
+    "ma_company": "Magnavox",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Magnavox Odyssey²",
+    "co_released_on": "1978"
+  },
+  {
+    "ma_company": "Mattel",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Intellivision",
+    "co_released_on": "1980"
+  },
+  {
+    "ma_company": "Coleco",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "ColecoVision",
+    "co_released_on": "1982"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Atari 5200",
+    "co_released_on": "1982"
+  },
+  {
+    "ma_company": "Bally Technologies",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Bally Astrocade",
+    "co_released_on": "1978"
+  },
+  {
+    "ma_company": "Emerson Radio Corporation",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Emerson Arcadia 2001",
+    "co_released_on": "1982"
+  },
+  {
+    "ma_company": "Milton Bradley",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "2",
+    "co_name": "Vectrex",
+    "co_released_on": "1982"
+  },
+  {
+    "ma_company": "Philips",
+    "ma_country": "NLD",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Videopac+ G7400",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Nichibutsu",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "My Vision",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Tomy",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Pyuuta Jr.",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Sega SG-1000",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "NES/Family Computer (Famicom)",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Casio",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "PV-1000",
+    "co_released_on": "1983"
+  },
+  {
+    "ma_company": "Epoch",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Epoch Super Cassette Vision",
+    "co_released_on": "1984"
+  },
+  {
+    "ma_company": "BBC/Heber",
+    "ma_country": "GBR",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Bridge Companion",
+    "co_released_on": "1985"
+  },
+  {
+    "ma_company": "LJN",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Video Art",
+    "co_released_on": "1985"
+  },
+  {
+    "ma_company": "Daewoo Electronics",
+    "ma_country": "KOR",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Zemmix",
+    "co_released_on": "1985"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Sega Mark III/Sega Master System",
+    "co_released_on": "1985"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Family Computer Disk System",
+    "co_released_on": "1986"
+  },
+  {
+    "ma_company": "Connor Electronics",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Videosmarts",
+    "co_released_on": "1986"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Atari 7800",
+    "co_released_on": "1986"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Atari XEGS",
+    "co_released_on": "1987"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Video Challenger",
+    "co_released_on": "1987"
+  },
+  {
+    "ma_company": "Worlds of Wonder",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Action Max",
+    "co_released_on": "1987"
+  },
+  {
+    "ma_company": "View-Master Ideal Group",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "View-Master Interactive Vision",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Terebikko",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "VTech Socrates",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Video Driver",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "Amstrad",
+    "ma_country": "GBR",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Amstrad GX4000",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "Commodore",
+    "ma_country": "CAN",
+    "co_type": "home",
+    "co_generation": "3",
+    "co_name": "Commodore 64 Games System",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "NEC",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "PC Engine/TurboGrafx-16",
+    "co_released_on": "1987"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Sega Genesis/Mega Drive",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "NEC",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "TurboGrafx-CD/CD-ROM²",
+    "co_released_on": "1988"
+  },
+  {
+    "ma_company": "NEC",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "PC Engine2/SuperGrafx",
+    "co_released_on": "1989"
+  },
+  {
+    "ma_company": "SNK",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Neo-Geo AES",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Super NES/Super Famicom",
+    "co_released_on": "1990"
+  },
+  {
+    "ma_company": "Commodore",
+    "ma_country": "CAN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Commodore CDTV",
+    "co_released_on": "1911"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Sega CD/Mega CD",
+    "co_released_on": "1991"
+  },
+  {
+    "ma_company": "Memorex",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Memorex VIS",
+    "co_released_on": "1992"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Sega Pico",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "Konami",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Picno",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "Pioneer",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Pioneer LaserActive",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "SNK",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Neo-Geo CD",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Sega 32X",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Satellaview",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Funtech",
+    "ma_country": "TWN",
+    "co_type": "home",
+    "co_generation": "4",
+    "co_name": "Super A'Can",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Fujitsu",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "FM Towns Marty",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "Commodore",
+    "ma_country": "CAN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Amiga CD32",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "Panasonic",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "3DO Interactive Multiplayer",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Atari Jaguar",
+    "co_released_on": "1993"
+  },
+  {
+    "ma_company": "Capcom",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "CPS Changer",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Bandai",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Playdia",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Sega Saturn",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "PlayStation",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "NEC",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "PC-FX",
+    "co_released_on": "1994"
+  },
+  {
+    "ma_company": "Apple",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Apple Bandai Pippin",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Atari",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Atari Jaguar CD",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Casio",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Casio Loopy",
+    "co_released_on": "1995"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Nintendo 64",
+    "co_released_on": "1996"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "5",
+    "co_name": "Nintendo 64DD",
+    "co_released_on": "1999"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "Dreamcast",
+    "co_released_on": "1998"
+  },
+  {
+    "ma_company": "VM Labs",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "Nuon",
+    "co_released_on": "2000"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "PlayStation 2",
+    "co_released_on": "2000"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "GameCube",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "Microsoft",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "Xbox",
+    "co_released_on": "2001"
+  },
+  {
+    "ma_company": "RTL",
+    "ma_country": "LUX",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "Interactive DVD KID's",
+    "co_released_on": "2002"
+  },
+  {
+    "ma_company": "SSD COMPANY LIMITED",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "Xavix PORT",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "V.Smile",
+    "co_released_on": "2004"
+  },
+  {
+    "ma_company": "Sega",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "Advanced Pico Beena",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "home",
+    "co_generation": "6",
+    "co_name": "V.Smile Baby Infant Development System",
+    "co_released_on": "2006"
+  },
+  {
+    "ma_company": "ZAPiT",
+    "ma_country": "CAN",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "Game Wave Family Entertainment System",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "Microsoft",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "Xbox 360",
+    "co_released_on": "2005"
+  },
+  {
+    "ma_company": "VTech",
+    "ma_country": "HKG",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "V.Flash",
+    "co_released_on": "2006"
+  },
+  {
+    "ma_company": "Mattel",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "HyperScan",
+    "co_released_on": "2006"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "PlayStation 3",
+    "co_released_on": "2006"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "Wii",
+    "co_released_on": "2006"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "8",
+    "co_name": "Wii U",
+    "co_released_on": "2012"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "8",
+    "co_name": "PlayStation 4",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "Microsoft",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "8",
+    "co_name": "Xbox One",
+    "co_released_on": "2013"
+  },
+  {
+    "ma_company": "Sony",
+    "ma_country": "JPN",
+    "co_type": "home",
+    "co_generation": "9",
+    "co_name": "PlayStation 5",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "Microsoft",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "9",
+    "co_name": "Xbox X",
+    "co_released_on": "2020"
+  },
+  {
+    "ma_company": "Zeebo",
+    "ma_country": "USA",
+    "co_type": "home",
+    "co_generation": "7",
+    "co_name": "Zeebo",
+    "co_released_on": "2009"
+  },
+  {
+    "ma_company": "Nintendo",
+    "ma_country": "JPN",
+    "co_type": "hybrid",
+    "co_generation": "8",
+    "co_name": "Nintendo Switch",
+    "co_released_on": "2017"
+  }
+]

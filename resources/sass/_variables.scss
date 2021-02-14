@@ -1,0 +1,180 @@
+// Background gradient
+$enable-gradients:                  false;
+
+// Colors
+$white:                             #fff !default;
+$gray-100:                          #f8f9fa !default;
+$gray-200:                          #e9ecef !default;
+$gray-300:                          #dee2e6 !default;
+$gray-400:                          #ced4da !default;
+$gray-500:                          #adb5bd !default;
+$gray-600:                          #6c757d !default;
+$gray-700:                          #495057 !default;
+$gray-800:                          #343a40 !default;
+$gray-900:                          #212529 !default;
+$black:                             #000 !default;
+
+$blue:                              #3490dc !default;
+$indigo:                            #6574cd !default;
+$purple:                            #9561e2 !default;
+$pink:                              #f66d9b !default;
+$red:                               #dc3545 !default;
+$blood:                             #b11312 !default;
+$orange:                            #f6993f !default;
+$yellow:                            #ffed4a !default;
+$green:                             #38c172 !default;
+$teal:                              #4dc0b5 !default;
+$cyan:                              #6cb2eb !default;
+$dark:                              #212529 !default;
+
+$grays: (
+  "100":                            $gray-100,
+  "200":                            $gray-200,
+  "300":                            $gray-300,
+  "400":                            $gray-400,
+  "500":                            $gray-500,
+  "600":                            $gray-600,
+  "700":                            $gray-700,
+  "800":                            $gray-800,
+  "900":                            $gray-900
+) !default;
+
+$colors: (
+  "blue":                           $blue,
+  "indigo":                         $indigo,
+  "purple":                         $purple,
+  "pink":                           $pink,
+  "red":                            $red,
+  "blood":                          $blood,
+  "orange":                         $orange,
+  "yellow":                         $yellow,
+  "green":                          $green,
+  "teal":                           $teal,
+  "cyan":                           $cyan,
+  "white":                          $white,
+  "gray":                           $gray-600,
+  "gray-dark":                      $gray-800
+) !default;
+
+$primary:                           $blue !default;
+$secondary:                         $gray-600 !default;
+$success:                           $green !default;
+$info:                              $cyan !default;
+$warning:                           $yellow !default;
+$danger:                            $red !default;
+$light:                             $gray-100 !default;
+$dark:                              $gray-900 !default;
+
+// scss-docs-start theme-colors-map
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+) !default;
+
+// Body
+$body-bg:                           $dark !default;
+$body-color:                        $white !default;
+
+// Links
+$link-color:                        $white !default;
+$link-decoration:                   none !default;
+$link-hover-color:                  darken($link-color, 15%) !default;
+$link-hover-decoration:             none !default;
+// Darken percentage for links with `.text-*` class (e.g. `.text-success`)
+$emphasized-link-hover-darken-percentage: 15% !default;
+
+// Typography
+$font-family-sans-serif:            'Roboto', sans-serif;
+$font-size-base:                    0.9rem;
+$line-height-base:                  1.6;
+
+// Components
+$border-width:                      1px !default;
+$border-color:                      $gray-100 !default;
+$box-shadow:                        0 .5rem 1rem rgba($black, .15) !default;
+$box-shadow-sm:                     0 .125rem .25rem rgba($black, .075) !default;
+$box-shadow-lg:                     0 1rem 3rem rgba($black, .175) !default;
+$box-shadow-inset:                  inset 0 1px 2px rgba($black, .075) !default;
+$component-active-color:            $gray-700 !default;
+$component-active-bg:               $gray-300 !default;
+
+// Navbar
+$navbar-dark-color:                 rgba($white, .55) !default;
+$navbar-dark-hover-color:           rgba($white, .75) !default;
+$navbar-dark-active-color:          $white !default;
+$navbar-dark-disabled-color:        rgba($white, .25) !default;
+$navbar-dark-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !default;
+$navbar-dark-toggler-border-color:  rgba($white, .1) !default;
+
+// Cards
+$card-border-color:                 rgba($black, .125) !default;
+$card-cap-bg:                       rgba($black, .03) !default;
+$card-cap-color:                    null !default;
+$card-height:                       null !default;
+$card-color:                        null !default;
+$card-bg:                           $gray-800 !default;
+
+// Modals
+$modal-content-bg:                  $dark;
+
+// Pagination
+$pagination-padding-y:              .375rem !default;
+$pagination-padding-x:              .75rem !default;
+$pagination-padding-y-sm:           .25rem !default;
+$pagination-padding-x-sm:           .5rem !default;
+$pagination-padding-y-lg:           .75rem !default;
+$pagination-padding-x-lg:           1.5rem !default;
+
+$pagination-color:                  $link-color !default;
+$pagination-bg:                     $gray-800 !default;
+$pagination-border-width:           $border-width !default;
+$pagination-margin-left:            -$pagination-border-width !default;
+$pagination-border-color:           $gray-800 !default;
+
+$pagination-hover-color:            $black !default;
+$pagination-hover-bg:               $gray-200 !default;
+$pagination-hover-border-color:     $gray-800 !default;
+
+$pagination-active-color:           $component-active-color !default;
+$pagination-active-bg:              $component-active-bg !default;
+$pagination-active-border-color:    $pagination-active-bg !default;
+
+$pagination-disabled-color:         $component-active-color !default;
+$pagination-disabled-bg:            $component-active-bg !default;
+$pagination-disabled-border-color:  $pagination-active-bg !default;
+
+// Tables
+$table-striped-color:               $gray-800;
+$table-striped-bg-factor:           .05 !default;
+$table-striped-bg:                  rgba($gray-700, $table-striped-bg-factor) !default;
+
+// List group
+$list-group-color:                  $white !default;
+$list-group-bg:                     $gray-800 !default;
+$list-group-border-color:           rgba($black, .125) !default;
+$list-group-border-width:           $border-width !default;
+
+$list-group-hover-bg:               $gray-500 !default;
+$list-group-active-color:           $component-active-color !default;
+$list-group-active-bg:              $component-active-bg !default;
+$list-group-active-border-color:    $list-group-active-bg !default;
+
+$list-group-disabled-color:         $gray-600 !default;
+$list-group-disabled-bg:            $list-group-bg !default;
+
+$list-group-action-color:           $gray-700 !default;
+$list-group-action-hover-color:     $list-group-action-color !default;
+
+$list-group-action-active-color:    $body-color !default;
+$list-group-action-active-bg:       $gray-200 !default;
+
+// Close
+$close-font-size:                   $font-size-base * 1.5 !default;
+$close-color:                       $white !default;
+$close-text-shadow:                 0 1px 0 $gray-100 !default;

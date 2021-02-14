@@ -1,0 +1,1579 @@
+[
+    {
+        "currency": "United Arab Emirates dirham",
+        "symbol": "د.إ",
+        "cca3": "AED",
+        "fractional_unit": "Fils",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200294"
+    },
+    {
+        "currency": "Afghan afghani",
+        "symbol": "؋",
+        "cca3": "AFN",
+        "fractional_unit": "Pul",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q199471"
+    },
+    {
+        "currency": "Albanian lek",
+        "symbol": "L",
+        "cca3": "ALL",
+        "fractional_unit": "Qindarkë",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q125999"
+    },
+    {
+        "currency": "Armenian dram",
+        "symbol": "֏",
+        "cca3": "AMD",
+        "fractional_unit": "Luma",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q130498"
+    },
+    {
+        "currency": "Netherlands Antillean guilder",
+        "symbol": "ƒ",
+        "cca3": "ANG",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q522701"
+    },
+    {
+        "currency": "Angolan kwanza",
+        "symbol": "Kz",
+        "cca3": "AOA",
+        "fractional_unit": "Cêntimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200337"
+    },
+    {
+        "currency": "Argentine peso",
+        "symbol": "$",
+        "cca3": "ARS",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q199578"
+    },
+    {
+        "currency": "Australian dollar",
+        "symbol": "$",
+        "cca3": "AUD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q259502"
+    },
+    {
+        "currency": "Aruban florin",
+        "symbol": "ƒ",
+        "cca3": "AWG",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q232270"
+    },
+    {
+        "currency": "Azerbaijani manat",
+        "symbol": "₼",
+        "cca3": "AZN",
+        "fractional_unit": "Qəpik",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q483725"
+    },
+    {
+        "currency": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM",
+        "cca3": "BAM",
+        "fractional_unit": "Fening",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q179620"
+    },
+    {
+        "currency": "Barbadian dollar",
+        "symbol": "$",
+        "cca3": "BBD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q194351"
+    },
+    {
+        "currency": "Bangladeshi taka",
+        "symbol": "৳",
+        "cca3": "BDT",
+        "fractional_unit": "Poisha",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q194453"
+    },
+    {
+        "currency": "Bulgarian lev",
+        "symbol": "лв",
+        "cca3": "BGN",
+        "fractional_unit": "Stotinka",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q172540"
+    },
+    {
+        "currency": "Bahraini dinar",
+        "symbol": ".د.ب",
+        "cca3": "BHD",
+        "fractional_unit": "Fils",
+        "fractional_number": "1000",
+        "translations": "null",
+        "wikidata": "Q201871"
+    },
+    {
+        "currency": "Burundian franc",
+        "symbol": "Fr",
+        "cca3": "BIF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q238007"
+    },
+    {
+        "currency": "Bermudian dollar",
+        "symbol": "$",
+        "cca3": "BMD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q210478"
+    },
+    {
+        "currency": "Brunei dollar",
+        "symbol": "$",
+        "cca3": "BND",
+        "fractional_unit": "Sen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q206319"
+    },
+    {
+        "currency": "Bolivian boliviano",
+        "symbol": "Bs.",
+        "cca3": "BOB",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200737"
+    },
+    {
+        "currency": "Brazilian real",
+        "symbol": "R$",
+        "cca3": "BRL",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q173117"
+    },
+    {
+        "currency": "Bahamian dollar",
+        "symbol": "$",
+        "cca3": "BSD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q194339"
+    },
+    {
+        "currency": "Bhutanese ngultrum",
+        "symbol": "Nu.",
+        "cca3": "BTN",
+        "fractional_unit": "Chetrum",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q201799"
+    },
+    {
+        "currency": "Botswana pula",
+        "symbol": "P",
+        "cca3": "BWP",
+        "fractional_unit": "Thebe",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q186794"
+    },
+    {
+        "currency": "Belarusian ruble",
+        "symbol": "Br",
+        "cca3": "BYN",
+        "fractional_unit": "Kapyeyka",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q160680"
+    },
+    {
+        "currency": "Belize dollar",
+        "symbol": "$",
+        "cca3": "BZD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q275112"
+    },
+    {
+        "currency": "Canadian dollar",
+        "symbol": "$",
+        "cca3": "CAD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q1104069"
+    },
+    {
+        "currency": "Congolese franc",
+        "symbol": "Fr",
+        "cca3": "CDF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4734"
+    },
+    {
+        "currency": "Swiss franc",
+        "symbol": "Fr",
+        "cca3": "CHF",
+        "fractional_unit": "Rappen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q25344"
+    },
+    {
+        "currency": "Chilean peso",
+        "symbol": "$",
+        "cca3": "CLP",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200050"
+    },
+    {
+        "currency": "Chinese yuan",
+        "symbol": "元",
+        "cca3": "CNY",
+        "fractional_unit": "Fen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q39099"
+    },
+    {
+        "currency": "Colombian peso",
+        "symbol": "$",
+        "cca3": "COP",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q244819"
+    },
+    {
+        "currency": "Costa Rican colón",
+        "symbol": "₡",
+        "cca3": "CRC",
+        "fractional_unit": "Céntimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q242915"
+    },
+    {
+        "currency": "Cuban convertible peso",
+        "symbol": "$",
+        "cca3": "CUC",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q731350"
+    },
+    {
+        "currency": "Cuban peso",
+        "symbol": "$",
+        "cca3": "CUP",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q201505"
+    },
+    {
+        "currency": "Cape Verdean escudo",
+        "symbol": "Esc",
+        "cca3": "CVE",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4591"
+    },
+    {
+        "currency": "Czech koruna",
+        "symbol": "Kč",
+        "cca3": "CZK",
+        "fractional_unit": "Haléř",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q131016"
+    },
+    {
+        "currency": "Djiboutian franc",
+        "symbol": "Fr",
+        "cca3": "DJF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4594"
+    },
+    {
+        "currency": "Danish krone",
+        "symbol": "kr",
+        "cca3": "DKK",
+        "fractional_unit": "Øre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q25417"
+    },
+    {
+        "currency": "Dominican peso",
+        "symbol": "$",
+        "cca3": "DOP",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q242922"
+    },
+    {
+        "currency": "Algerian dinar",
+        "symbol": "د.ج",
+        "cca3": "DZD",
+        "fractional_unit": "Santeem",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q199674"
+    },
+    {
+        "currency": "Egyptian pound",
+        "symbol": "ج.م",
+        "cca3": "EGP",
+        "fractional_unit": "Piastre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q199462"
+    },
+    {
+        "currency": "Eritrean nakfa",
+        "symbol": "Nfk",
+        "cca3": "ERN",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q171503"
+    },
+    {
+        "currency": "Ethiopian birr",
+        "symbol": "Br",
+        "cca3": "ETB",
+        "fractional_unit": "Santim",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q206243"
+    },
+    {
+        "currency": "Euro",
+        "symbol": "€",
+        "cca3": "EUR",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4916"
+    },
+    {
+        "currency": "Fijian dollar",
+        "symbol": "$",
+        "cca3": "FJD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4592"
+    },
+    {
+        "currency": "Falkland Islands pound",
+        "symbol": "£",
+        "cca3": "FKP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q330044"
+    },
+    {
+        "currency": "British pound",
+        "symbol": "£",
+        "cca3": "GBP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q25224"
+    },
+    {
+        "currency": "Georgian lari",
+        "symbol": "₾",
+        "cca3": "GEL",
+        "fractional_unit": "Tetri",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4608"
+    },
+    {
+        "currency": "Guernsey pound",
+        "symbol": "£",
+        "cca3": "GGP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q255792"
+    },
+    {
+        "currency": "Ghana cedi",
+        "symbol": "₵",
+        "cca3": "GHS",
+        "fractional_unit": "Pesewa",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q183530"
+    },
+    {
+        "currency": "Gibraltar pound",
+        "symbol": "£",
+        "cca3": "GIP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q41429"
+    },
+    {
+        "currency": "Gambian dalasi",
+        "symbol": "D",
+        "cca3": "GMD",
+        "fractional_unit": "Butut",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q202885"
+    },
+    {
+        "currency": "Guinean franc",
+        "symbol": "Fr",
+        "cca3": "GNF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q213311"
+    },
+    {
+        "currency": "Guatemalan quetzal",
+        "symbol": "Q",
+        "cca3": "GTQ",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q207396"
+    },
+    {
+        "currency": "Guyanese dollar",
+        "symbol": "$",
+        "cca3": "GYD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q213005"
+    },
+    {
+        "currency": "Hong Kong dollar",
+        "symbol": "$",
+        "cca3": "HKD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q31015"
+    },
+    {
+        "currency": "Honduran lempira",
+        "symbol": "L",
+        "cca3": "HNL",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4719"
+    },
+    {
+        "currency": "Croatian kuna",
+        "symbol": "kn",
+        "cca3": "HRK",
+        "fractional_unit": "Lipa",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q26360"
+    },
+    {
+        "currency": "Haitian gourde",
+        "symbol": "G",
+        "cca3": "HTG",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q203955"
+    },
+    {
+        "currency": "Hungarian forint",
+        "symbol": "Ft",
+        "cca3": "HUF",
+        "fractional_unit": "Fillér",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q47190"
+    },
+    {
+        "currency": "Indonesian rupiah",
+        "symbol": "Rp",
+        "cca3": "IDR",
+        "fractional_unit": "Sen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q41588"
+    },
+    {
+        "currency": "Israeli new shekel",
+        "symbol": "₪",
+        "cca3": "ILS",
+        "fractional_unit": "Agora",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q131309"
+    },
+    {
+        "currency": "Manx pound",
+        "symbol": "£",
+        "cca3": "IMP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q27614"
+    },
+    {
+        "currency": "Indian rupee",
+        "symbol": "₹",
+        "cca3": "INR",
+        "fractional_unit": "Paisa",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q80524"
+    },
+    {
+        "currency": "Iraqi dinar",
+        "symbol": "ع.د",
+        "cca3": "IQD",
+        "fractional_unit": "Fils",
+        "fractional_number": "1000",
+        "translations": "null",
+        "wikidata": "Q193094"
+    },
+    {
+        "currency": "Iranian rial",
+        "symbol": "﷼",
+        "cca3": "IRR",
+        "fractional_unit": "Dinar",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q188608"
+    },
+    {
+        "currency": "Icelandic króna",
+        "symbol": "kr",
+        "cca3": "ISK",
+        "fractional_unit": "Eyrir",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q131473"
+    },
+    {
+        "currency": "Jersey pound",
+        "symbol": "£",
+        "cca3": "JEP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q270744"
+    },
+    {
+        "currency": "Jamaican dollar",
+        "symbol": "$",
+        "cca3": "JMD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q209792"
+    },
+    {
+        "currency": "Jordanian dinar",
+        "symbol": "د.ا",
+        "cca3": "JOD",
+        "fractional_unit": "Piastre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q203722"
+    },
+    {
+        "currency": "Japanese yen",
+        "symbol": "¥",
+        "cca3": "JPY",
+        "fractional_unit": "Sen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q8146"
+    },
+    {
+        "currency": "Kenyan shilling",
+        "symbol": "Sh",
+        "cca3": "KES",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q202882"
+    },
+    {
+        "currency": "Kyrgyzstani som",
+        "symbol": "с",
+        "cca3": "KGS",
+        "fractional_unit": "Tyiyn",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q35881"
+    },
+    {
+        "currency": "Cambodian riel",
+        "symbol": "៛",
+        "cca3": "KHR",
+        "fractional_unit": "Sen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q204737"
+    },
+    {
+        "currency": "Kiribati dollar",
+        "symbol": "$",
+        "cca3": "KID",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q1049963"
+    },
+    {
+        "currency": "Comorian franc",
+        "symbol": "Fr",
+        "cca3": "KMF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q267264"
+    },
+    {
+        "currency": "North Korean won",
+        "symbol": "₩",
+        "cca3": "KPW",
+        "fractional_unit": "Chon",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q106720"
+    },
+    {
+        "currency": "South Korean won",
+        "symbol": "₩",
+        "cca3": "KRW",
+        "fractional_unit": "Jeon",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q202040"
+    },
+    {
+        "currency": "Kuwaiti dinar",
+        "symbol": "د.ك",
+        "cca3": "KWD",
+        "fractional_unit": "Fils",
+        "fractional_number": "1000",
+        "translations": "null",
+        "wikidata": "Q193098"
+    },
+    {
+        "currency": "Cayman Islands dollar",
+        "symbol": "$",
+        "cca3": "KYD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q319885"
+    },
+    {
+        "currency": "Kazakhstani tenge",
+        "symbol": "₸",
+        "cca3": "KZT",
+        "fractional_unit": "Tïın",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q173751"
+    },
+    {
+        "currency": "Lao kip",
+        "symbol": "₭",
+        "cca3": "LAK",
+        "fractional_unit": "Att",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200055"
+    },
+    {
+        "currency": "Lebanese pound",
+        "symbol": "ل.ل",
+        "cca3": "LBP",
+        "fractional_unit": "Piastre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q201880"
+    },
+    {
+        "currency": "Sri Lankan rupee",
+        "symbol": "ரூ",
+        "cca3": "LKR",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4596"
+    },
+    {
+        "currency": "Liberian dollar",
+        "symbol": "$",
+        "cca3": "LRD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q242988"
+    },
+    {
+        "currency": "Lesotho loti",
+        "symbol": "L",
+        "cca3": "LSL",
+        "fractional_unit": "Sente",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q208039"
+    },
+    {
+        "currency": "Libyan dinar",
+        "symbol": "ل.د",
+        "cca3": "LYD",
+        "fractional_unit": "Dirham",
+        "fractional_number": "1000",
+        "translations": "null",
+        "wikidata": "Q190699"
+    },
+    {
+        "currency": "Moroccan dirham",
+        "symbol": "د.م.",
+        "cca3": "MAD",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200192"
+    },
+    {
+        "currency": "Moldovan leu",
+        "symbol": "L",
+        "cca3": "MDL",
+        "fractional_unit": "Ban",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q181129"
+    },
+    {
+        "currency": "Malagasy ariary",
+        "symbol": "Ar",
+        "cca3": "MGA",
+        "fractional_unit": "Iraimbilanja",
+        "fractional_number": "5",
+        "translations": "null",
+        "wikidata": "Q4584"
+    },
+    {
+        "currency": "Macedonian denar",
+        "symbol": "ден",
+        "cca3": "MKD",
+        "fractional_unit": "Deni",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q177875"
+    },
+    {
+        "currency": "Burmese kyat",
+        "symbol": "Ks",
+        "cca3": "MMK",
+        "fractional_unit": "Pya",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q201875"
+    },
+    {
+        "currency": "Mongolian tögrög",
+        "symbol": "₮",
+        "cca3": "MNT",
+        "fractional_unit": "Möngö",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q183435"
+    },
+    {
+        "currency": "Macanese pataca",
+        "symbol": "P",
+        "cca3": "MOP",
+        "fractional_unit": "Avo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q241214"
+    },
+    {
+        "currency": "Mauritanian ouguiya",
+        "symbol": "UM",
+        "cca3": "MRU",
+        "fractional_unit": "Khoums",
+        "fractional_number": "5",
+        "translations": "null",
+        "wikidata": "Q207024"
+    },
+    {
+        "currency": "Mauritian rupee",
+        "symbol": "₨",
+        "cca3": "MUR",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q212967"
+    },
+    {
+        "currency": "Maldivian rufiyaa",
+        "symbol": ".ރ",
+        "cca3": "MVR",
+        "fractional_unit": "Laari",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q206600"
+    },
+    {
+        "currency": "Malawian kwacha",
+        "symbol": "MK",
+        "cca3": "MWK",
+        "fractional_unit": "Tambala",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q211694"
+    },
+    {
+        "currency": "Mexican peso",
+        "symbol": "$",
+        "cca3": "MXN",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4730"
+    },
+    {
+        "currency": "Malaysian ringgit",
+        "symbol": "RM",
+        "cca3": "MYR",
+        "fractional_unit": "Sen",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q163712"
+    },
+    {
+        "currency": "Mozambican metical",
+        "symbol": "MT",
+        "cca3": "MZN",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200753"
+    },
+    {
+        "currency": "Namibian dollar",
+        "symbol": "$",
+        "cca3": "NAD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q202462"
+    },
+    {
+        "currency": "Nigerian naira",
+        "symbol": "₦",
+        "cca3": "NGN",
+        "fractional_unit": "Kobo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q203567"
+    },
+    {
+        "currency": "Nicaraguan córdoba",
+        "symbol": "C$",
+        "cca3": "NIO",
+        "fractional_unit": "Centavo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q207312"
+    },
+    {
+        "currency": "Norwegian krone",
+        "symbol": "kr",
+        "cca3": "NOK",
+        "fractional_unit": "Øre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q132643"
+    },
+    {
+        "currency": "Nepalese rupee",
+        "symbol": "₨",
+        "cca3": "NPR",
+        "fractional_unit": "Paisa",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q202895"
+    },
+    {
+        "currency": "New Zealand dollar",
+        "symbol": "$",
+        "cca3": "NZD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q1472704"
+    },
+    {
+        "currency": "Omani rial",
+        "symbol": "ر.ع.",
+        "cca3": "OMR",
+        "fractional_unit": "Baisa",
+        "fractional_number": "1000",
+        "translations": "null",
+        "wikidata": "Q272290"
+    },
+    {
+        "currency": "Panamanian balboa",
+        "symbol": "B/.",
+        "cca3": "PAB",
+        "fractional_unit": "Centésimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q210472"
+    },
+    {
+        "currency": "Peruvian sol",
+        "symbol": "S/.",
+        "cca3": "PEN",
+        "fractional_unit": "Céntimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q1606309"
+    },
+    {
+        "currency": "Papua New Guinean kina",
+        "symbol": "K",
+        "cca3": "PGK",
+        "fractional_unit": "Toea",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200759"
+    },
+    {
+        "currency": "Philippine peso",
+        "symbol": "₱",
+        "cca3": "PHP",
+        "fractional_unit": "Sentimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q17193"
+    },
+    {
+        "currency": "Pakistani rupee",
+        "symbol": "₨",
+        "cca3": "PKR",
+        "fractional_unit": "Paisa",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q188289"
+    },
+    {
+        "currency": "Polish złoty",
+        "symbol": "zł",
+        "cca3": "PLN",
+        "fractional_unit": "Grosz",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q123213"
+    },
+    {
+        "currency": "Transnistrian ruble",
+        "symbol": "р.",
+        "cca3": "PRB",
+        "fractional_unit": "Kopek",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q200979"
+    },
+    {
+        "currency": "Paraguayan guaraní",
+        "symbol": "₲",
+        "cca3": "PYG",
+        "fractional_unit": "Céntimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q207514"
+    },
+    {
+        "currency": "Qatari riyal",
+        "symbol": "ر.ق",
+        "cca3": "QAR",
+        "fractional_unit": "Dirham",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q206386"
+    },
+    {
+        "currency": "Romanian leu",
+        "symbol": "lei",
+        "cca3": "RON",
+        "fractional_unit": "Ban",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q131645"
+    },
+    {
+        "currency": "Serbian dinar",
+        "symbol": "дин.",
+        "cca3": "RSD",
+        "fractional_unit": "Para",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q172524"
+    },
+    {
+        "currency": "Russian ruble",
+        "symbol": "₽",
+        "cca3": "RUB",
+        "fractional_unit": "Kopek",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q41044"
+    },
+    {
+        "currency": "Rwandan franc",
+        "symbol": "Fr",
+        "cca3": "RWF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4741"
+    },
+    {
+        "currency": "Saudi riyal",
+        "symbol": "ر.س",
+        "cca3": "SAR",
+        "fractional_unit": "Halala",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q199857"
+    },
+    {
+        "currency": "Solomon Islands dollar",
+        "symbol": "$",
+        "cca3": "SBD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4597"
+    },
+    {
+        "currency": "Seychellois rupee",
+        "symbol": "₨",
+        "cca3": "SCR",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4595"
+    },
+    {
+        "currency": "Sudanese pound",
+        "symbol": "ج.س.",
+        "cca3": "SDG",
+        "fractional_unit": "Piastre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q271206"
+    },
+    {
+        "currency": "Swedish krona",
+        "symbol": "kr",
+        "cca3": "SEK",
+        "fractional_unit": "Öre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q122922"
+    },
+    {
+        "currency": "Singapore dollar",
+        "symbol": "$",
+        "cca3": "SGD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q190951"
+    },
+    {
+        "currency": "Saint Helena pound",
+        "symbol": "£",
+        "cca3": "SHP",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q374453"
+    },
+    {
+        "currency": "Sierra Leonean leone",
+        "symbol": "Le",
+        "cca3": "SLL",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4587"
+    },
+    {
+        "currency": "Somaliland shilling",
+        "symbol": "Sl",
+        "cca3": "SLS",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q737384"
+    },
+    {
+        "currency": "Somali shilling",
+        "symbol": "Sh",
+        "cca3": "SOS",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4603"
+    },
+    {
+        "currency": "Surinamese dollar",
+        "symbol": "$",
+        "cca3": "SRD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q202036"
+    },
+    {
+        "currency": "South Sudanese pound",
+        "symbol": "£",
+        "cca3": "SSP",
+        "fractional_unit": "Piastre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q244366"
+    },
+    {
+        "currency": "São Tomé and Príncipe dobra",
+        "symbol": "Db",
+        "cca3": "STN",
+        "fractional_unit": "Cêntimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q193712"
+    },
+    {
+        "currency": "Syrian pound",
+        "symbol": "ل.س",
+        "cca3": "SYP",
+        "fractional_unit": "Piastre",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q240468"
+    },
+    {
+        "currency": "Swazi lilangeni",
+        "symbol": "L",
+        "cca3": "SZL",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4823"
+    },
+    {
+        "currency": "Thai baht",
+        "symbol": "฿",
+        "cca3": "THB",
+        "fractional_unit": "Satang",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q177882"
+    },
+    {
+        "currency": "Tajikistani somoni",
+        "symbol": "ЅМ",
+        "cca3": "TJS",
+        "fractional_unit": "Diram",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q199886"
+    },
+    {
+        "currency": "Turkmenistan manat",
+        "symbol": "m",
+        "cca3": "TMT",
+        "fractional_unit": "Tennesi",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q486637"
+    },
+    {
+        "currency": "Tunisian dinar",
+        "symbol": "د.ت",
+        "cca3": "TND",
+        "fractional_unit": "Millime",
+        "fractional_number": "1000",
+        "translations": "null",
+        "wikidata": "Q4602"
+    },
+    {
+        "currency": "Tongan paʻanga",
+        "symbol": "T$",
+        "cca3": "TOP",
+        "fractional_unit": "Seniti",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4613"
+    },
+    {
+        "currency": "Turkish lira",
+        "symbol": "₺",
+        "cca3": "TRY",
+        "fractional_unit": "Kuruş",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q172872"
+    },
+    {
+        "currency": "Trinidad and Tobago dollar",
+        "symbol": "$",
+        "cca3": "TTD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q242890"
+    },
+    {
+        "currency": "Tuvaluan dollar",
+        "symbol": "$",
+        "cca3": "TVD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4406"
+    },
+    {
+        "currency": "New Taiwan dollar",
+        "symbol": "$",
+        "cca3": "TWD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q208526"
+    },
+    {
+        "currency": "Tanzanian shilling",
+        "symbol": "Sh",
+        "cca3": "TZS",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4589"
+    },
+    {
+        "currency": "Ukrainian hryvnia",
+        "symbol": "₴",
+        "cca3": "UAH",
+        "fractional_unit": "Kopiyka",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q81893"
+    },
+    {
+        "currency": "Ugandan shilling",
+        "symbol": "Sh",
+        "cca3": "UGX",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4598"
+    },
+    {
+        "currency": "United States dollar",
+        "symbol": "$",
+        "cca3": "USD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4917"
+    },
+    {
+        "currency": "Uruguayan peso",
+        "symbol": "$",
+        "cca3": "UYU",
+        "fractional_unit": "Centésimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q209272"
+    },
+    {
+        "currency": "Uzbekistani soʻm",
+        "symbol": "сўм",
+        "cca3": "UZS",
+        "fractional_unit": "Tiyin",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q487888"
+    },
+    {
+        "currency": "Venezuelan bolívar",
+        "symbol": "Bs.S.",
+        "cca3": "VES",
+        "fractional_unit": "Céntimo",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q203757"
+    },
+    {
+        "currency": "Vietnamese đồng",
+        "symbol": "₫",
+        "cca3": "VND",
+        "fractional_unit": "Hào",
+        "fractional_number": "10",
+        "translations": "null",
+        "wikidata": "Q192090"
+    },
+    {
+        "currency": "Vanuatu vatu",
+        "symbol": "Vt",
+        "cca3": "VUV",
+        "fractional_unit": "null",
+        "fractional_number": "null",
+        "translations": "null",
+        "wikidata": "Q207523"
+    },
+    {
+        "currency": "Samoan tālā",
+        "symbol": "T",
+        "cca3": "WST",
+        "fractional_unit": "Sene",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4588"
+    },
+    {
+        "currency": "Central African CFA franc",
+        "symbol": "Fr",
+        "cca3": "XAF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q847739"
+    },
+    {
+        "currency": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "cca3": "XCD",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q26365"
+    },
+    {
+        "currency": "West African CFA franc",
+        "symbol": "Fr",
+        "cca3": "XOF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q861690"
+    },
+    {
+        "currency": "CFP franc",
+        "symbol": "₣",
+        "cca3": "XPF",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q214393"
+    },
+    {
+        "currency": "Yemeni rial",
+        "symbol": "﷼",
+        "cca3": "YER",
+        "fractional_unit": "Fils",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q240512"
+    },
+    {
+        "currency": "South African rand",
+        "symbol": "R",
+        "cca3": "ZAR",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q181907"
+    },
+    {
+        "currency": "Zambian kwacha",
+        "symbol": "ZK",
+        "cca3": "ZMW",
+        "fractional_unit": "Ngwee",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q73408"
+    },
+    {
+        "currency": "Zimbabwean bonds",
+        "symbol": "$",
+        "cca3": "ZWB",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q30637538"
+    },
+    {
+        "currency": "Alderney pound",
+        "symbol": "£",
+        "cca3": "null",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q593880"
+    },
+    {
+        "currency": "Artsakh dram",
+        "symbol": "դր.",
+        "cca3": "null",
+        "fractional_unit": "Luma",
+        "fractional_number": "100",
+        "translations": "null"
+    },
+    {
+        "currency": "British Virgin Islands dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null"
+    },
+    {
+        "currency": "Cook Islands dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q507737"
+    },
+    {
+        "currency": "Faroese króna",
+        "symbol": "kr",
+        "cca3": "null",
+        "fractional_unit": "Oyra",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q191068"
+    },
+    {
+        "currency": "Micronesian dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null"
+    },
+    {
+        "currency": "Nauruan dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null"
+    },
+    {
+        "currency": "Niue dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4165057"
+    },
+    {
+        "currency": "Palauan dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null"
+    },
+    {
+        "currency": "Pitcairn Islands dollar",
+        "symbol": "$",
+        "cca3": "null",
+        "fractional_unit": "Cent",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q4165058"
+    },
+    {
+        "currency": "Sahrawi peseta",
+        "symbol": "₧",
+        "cca3": "null",
+        "fractional_unit": "Centime",
+        "fractional_number": "100",
+        "translations": "null",
+        "wikidata": "Q2094914"
+    },
+    {
+        "currency": "South Georgia and the South Sandwich Islands pound",
+        "symbol": "£",
+        "cca3": "null",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null"
+    },
+    {
+        "currency": "Tristan da Cunha pound",
+        "symbol": "£",
+        "cca3": "null",
+        "fractional_unit": "Penny",
+        "fractional_number": "100",
+        "translations": "null"
+    }
+]

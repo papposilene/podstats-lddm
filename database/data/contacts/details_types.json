@@ -1,0 +1,70 @@
+[
+    {
+        "type": "phone",
+        "icon" : "fas fa-phone"
+    },
+    {
+        "type": "mobile",
+        "icon" : "fas fa-mobile"
+    },
+    {
+        "type": "link",
+        "icon" : "fas fa-link"
+    },
+    {
+        "type": "facebook",
+        "icon" : "fab fa-facebook"
+    },
+    {
+        "type": "twitter",
+        "icon" : "fab fa-twitter"
+    },
+    {
+        "type": "instagram",
+        "icon" : "fab fa-instagram"
+    },
+    {
+        "type": "linkedin",
+        "icon" : "fab fa-linkedin"
+    },
+    {
+        "type": "steam",
+        "icon" : "fab fa-steam"
+    },
+    {
+        "type": "apple",
+        "icon" : "fab fa-apple"
+    },
+    {
+        "type": "spotify",
+        "icon" : "fab fa-spotify"
+    },
+    {
+        "type": "bandcamp",
+        "icon" : "fab fa-bandcamp"
+    },
+    {
+        "type": "deezer",
+        "icon" : "fab fa-deezer"
+    },
+    {
+        "type": "soundcloud",
+        "icon" : "fab fa-soundcloud"
+    },
+    {
+        "type": "youtube",
+        "icon" : "fab fa-youtube"
+    },
+    {
+        "type": "imdb",
+        "icon" : "fab fa-imdb"
+    },
+    {
+        "type": "vgmdb",
+        "icon" : "fas fa-external-link-alt"
+    },
+    {
+        "type": "wikipedia",
+        "icon" : "fab fa-wikipedia-w"
+    }
+]

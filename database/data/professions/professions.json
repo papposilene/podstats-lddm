@@ -1,0 +1,62 @@
+[{
+		"profession":
+        {
+			"en": "Host",
+			"fr": "Animateur"
+        }
+	},
+	{
+		"profession": {
+			"en": "Guest",
+			"fr": "Invité"
+		}
+	},
+	{
+		"profession": {
+			"en": "Producer",
+			"fr": "Producteur"
+		}
+	},
+	{
+		"profession": {
+			"en": "Publisher",
+			"fr": "Editeur"
+		}
+	},
+    {
+		"profession": {
+			"en": "Director",
+			"fr": "Directeur"
+		}
+	},
+	{
+		"profession": {
+			"en": "Designer",
+			"fr": "Designer"
+		}
+	},
+	{
+		"profession": {
+			"en": "Developer",
+			"fr": "Développeur"
+		}
+	},
+	{
+		"profession": {
+			"en": "Author",
+			"fr": "Auteur"
+		}
+	},
+	{
+		"profession": {
+			"en": "Composer",
+			"fr": "Compositeur"
+		}
+	},
+	{
+		"profession": {
+			"en": "Performer",
+			"fr": "Interprète"
+		}
+	}
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "st_studio": "Activision Blizzard",
+        "st_country": "USA"
+    },
+    {
+        "st_studio": "Bandai Namco Entertainment",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Capcom",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Electronic Arts",
+        "st_country": "USA"
+    },
+    {
+        "st_studio": "Epic Games",
+        "st_country": "USA"
+    },
+    {
+        "st_studio": "Konami",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Marvelous",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "NCSoft",
+        "st_country": "KOR"
+    },
+    {
+        "st_studio": "NetEase",
+        "st_country": "CHN"
+    },
+    {
+        "st_studio": "Nexon",
+        "st_country": "KOR"
+    },
+    {
+        "st_studio": "Nintendo",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Nippon Ichi",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Sega",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "SNK",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Sony Interactive Entertainment",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Square Enix",
+        "st_country": "JPN"
+    },
+    {
+        "st_studio": "Take-Two Interactive",
+        "st_country": "USA"
+    },
+    {
+        "st_studio": "Tencent",
+        "st_country": "CHN"
+    },
+    {
+        "st_studio": "Ubisoft",
+        "st_country": "FRA"
+    },
+    {
+        "st_studio": "Xbox Game Studios",
+        "st_country": "USA"
+    }
+]
