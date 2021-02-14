@@ -14,22 +14,20 @@ class SuperAdminSeeder extends Seeder
     public function run()
     {
         // First user
-		$adminUname = 'papposilene';
-		$adminGender = 'masculine';
-		$adminFname = 'Philippe-Alexandre';
-		$adminMname = 'JBM';
-		$adminLname = 'Pierre';
-		$adminMail = 'dev@psln.nl';
-		$adminPassword = 'laraveltest';
-		
-		
+		$adminUname = env('ADMIN_UNAME', 'admin');
+        $adminMail = env('ADMIN_EMAIL', 'example@example.com');
+        $adminPassword = env('ADMIN_PASSWORD', 'laravel');
+        $adminFname = env('ADMIN_FNAME', 'admin');
+        $adminMname = env('ADMIN_MNAME', null);
+        $adminLname = env('ADMIN_LNAME', 'admin');
+
+
 		// Drop the table
         DB::table('users')->delete();
         // Seed the table
         User::create(
             [
                 'uname' => $adminUname,
-                'gender' => $adminGender,
                 'fname' => $adminFname,
                 'mname' => $adminMname,
                 'lname' => $adminLname,
