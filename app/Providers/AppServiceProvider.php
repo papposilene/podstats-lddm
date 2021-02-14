@@ -31,12 +31,12 @@ class AppServiceProvider extends ServiceProvider
         // App Name, from the .env file
         $appName = config('app.name');
         view::share('appName', $appName);
-        
+
         $menuPodcasts = Podcast::all();
         $lddm = Podcast::limit(1)->first();
         view::share('menuPodcasts', $menuPodcasts);
         view::share('lddm', $lddm);
-        
+
         Blade::directive('date', function ($expression) {
             return "<?php echo ($expression)->format('d/m/Y'); ?>";
         });

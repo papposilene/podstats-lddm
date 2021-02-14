@@ -70,6 +70,13 @@
       0 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     ),
   ),
+  'recca0120/terminal' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Recca0120\\Terminal\\TerminalServiceProvider',
+    ),
+  ),
   'spatie/laravel-activitylog' => 
   array (
     'providers' => 
