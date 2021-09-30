@@ -70,13 +70,6 @@
       0 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     ),
   ),
-  'recca0120/terminal' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Recca0120\\Terminal\\TerminalServiceProvider',
-    ),
-  ),
   'spatie/laravel-activitylog' => 
   array (
     'providers' => 
@@ -103,17 +96,6 @@
     'providers' => 
     array (
       0 => 'TeamTNT\\Scout\\TNTSearchScoutServiceProvider',
-    ),
-  ),
-  'webpatser/laravel-uuid' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Webpatser\\Uuid\\UuidServiceProvider',
-    ),
-    'aliases' => 
-    array (
-      'Uuid' => 'Webpatser\\Uuid\\Uuid',
     ),
   ),
   'yadahan/laravel-authentication-log' => 
